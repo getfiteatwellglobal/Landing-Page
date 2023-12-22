@@ -1,0 +1,17 @@
+.dashboard{
+    margin: 0px auto;
+    display: flex;
+    width: 90vw;
+    gap: 10px;
+    overflow-x: scroll;
+    
+}
+.dashboard-item{
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 10px;
+}
+.dashboard-item-img{
+    width: 100px;
+    height: auto;
+}
